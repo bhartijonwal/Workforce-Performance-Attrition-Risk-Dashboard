@@ -88,7 +88,7 @@ These insights can inform hiring plans, compensation reviews, and manager-level 
 - `README.md` → Project documentation
 - `ATTRITITION REPORT.docx` → Full project report
 - `Screenshot 2026-02-28 224846.png` → Dashboard preview
-
+- [Raw Dataset Used](https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance/input)
 ---
 
 ## Dashboard Preview
