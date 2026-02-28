@@ -92,4 +92,4 @@ These insights can inform hiring plans, compensation reviews, and manager-level 
 ---
 
 ## Dashboard Preview
-https://github.com/bhartijonwal/Workforce-Performance-Attrition-Risk-Dashboard/blob/main/Screenshot%202026-02-28%20224846.png
+[DASHBOARD)](https://github.com/bhartijonwal/Workforce-Performance-Attrition-Risk-Dashboard/blob/main/Screenshot%202026-02-28%20224846.png)
